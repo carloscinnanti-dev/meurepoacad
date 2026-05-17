@@ -9,4 +9,4 @@
 * documentos - Espaço reservado para documentações futuras.
 
 ## 3. Link da Página Publicada
-* Veja meu site ao vivo aqui: (https://carloscinnanti-dev.github.io/meurepoacad/)
+* Veja meu site ao vivo aqui: ()
